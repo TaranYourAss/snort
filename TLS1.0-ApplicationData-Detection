@@ -1,0 +1,1 @@
+alert tcp any any <> any 443 (msg:"TLS 1.0 - Encrypted Application Data Detected"; content:"|17 03 01|"; offset:54; depth:3; rev:1; sid:85000003; severity:7; )
