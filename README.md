@@ -1,3 +1,3 @@
 # Snort
 
-# A place to store custom Snort rules
+A place to store custom Snort rules
